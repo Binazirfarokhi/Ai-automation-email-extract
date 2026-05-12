@@ -9,7 +9,7 @@ The goal of this automation is to reduce manual data entry by extracting importa
 
 The GIF below shows the email workflow and how the automation starts from an incoming email.
 
-![AI Email Automation Demo](assets/email-automation-demo.gif)
+![AI Email Automation Demo](ScreenRecording2026-05-11at10.23.36PM-ezgif.com-video-to-gif-converter (1).gif)
 
 ## Project Overview
 
